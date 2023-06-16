@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Single Image Webpage</title>
+</head>
+<body>
+	<img src="Camplogo.jpg" width="200" height="52"
+</body>
+</html>
